@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VHDL related to signal assignment within a clocked process. The initial code exhibits a potential race condition or unexpected behavior. The solution demonstrates the corrected code with improved clarity and proper signal handling.  This is a simple example, and more complex designs may exhibit more subtle variations of this error.
